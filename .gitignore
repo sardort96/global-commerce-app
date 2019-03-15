@@ -1,4 +1,4 @@
 .idea
 .venv
 *.pyc
-globalcommerce/settings.py
+./globalcommerce/settings.py
