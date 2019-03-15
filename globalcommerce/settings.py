@@ -25,7 +25,7 @@ SECRET_KEY = 'y7x(75ke5_0_)h1yqcr62-)m5v_s+s@l9^uutpaf%=6d%b#029'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sardort.pythonanywhere.com']
 
 
 # Application definition
